@@ -4,6 +4,6 @@ Key libraries such as Streamlit, Chroma, HuggingFace embeddings, and Grok are im
 The application manages chat history using session states and integrates document retrieval with conversational memory.
 The code includes error handling, prompt engineering, and demonstrates running the Streamlit app for interactive Q&A with uploaded PDFs.
 
-<img width="1732" height="547" alt="Screenshot 2025-09-15 175948" src="https://github.com/user-attachments/assets/9c590a34-0877-4bf3-af9f-b685391bdc15" />
-<img width="1506" height="733" alt="Screenshot 2025-09-15 180008" src="https://github.com/user-attachments/assets/ff74e861-585c-4ddb-833d-b2e8ec4b695e" />
+<img width="821" height="766" alt="Screenshot 2025-09-15 193336" src="https://github.com/user-attachments/assets/a463ee27-e5a4-4bf3-bec6-68712ad33352" />
+
 
